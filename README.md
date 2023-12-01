@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋, I am Muhammed Ashraf
+
+Computer Science and Engineering Student from Kongu Engineering College
+
+📫 How to reach me: ashrafmd1106@gmail.com
 
 <!--
 **ashraf-md06/ashraf-md06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
