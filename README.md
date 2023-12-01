@@ -4,7 +4,7 @@ Computer Science and Engineering Student from Kongu Engineering College
 
 📫 How to reach me: ashrafmd1106@gmail.com
 
-Resume Link [My Resume](https://drive.google.com/file/d/14z_v2b8efrcnL1QGEUPjrn_tkxm5TC1L/view?usp=sharing)
+Resume Link : [My Resume](https://drive.google.com/file/d/14z_v2b8efrcnL1QGEUPjrn_tkxm5TC1L/view?usp=sharing)
 <!--
 **ashraf-md06/ashraf-md06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
